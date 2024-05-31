@@ -21,5 +21,6 @@ Turtle, Pygame, Python, Visual Studio Code, Github
 # Future Work
 
 * Add highest score graphic.
-* ALlow user change speed of the game.
-* Allow user to change paddle size.
+* Allow the user to change the speed of the game.
+* Allow the user to change the paddle size.
+* Create title screen graphic to change settings rather than console.
